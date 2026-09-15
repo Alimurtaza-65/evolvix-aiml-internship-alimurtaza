@@ -6,7 +6,8 @@ Welcome to my central repository for the **Evolvix AI/ML Internship**. This repo
 
 ## 📅 Weekly Progress
 
-| Week | Topic / Focus Area | Task Link | Status |
+| **Week 1 - Task 1** | Orientation & Environment Setup | [View Folder](./week-01/) | ✅ Completed |
+| **Week 1 - Task 2** | Linear Regression Model | [View Folder](./week-01/) | ✅ Completed |
 | :---: | :--- | :---: | :---: |
 | **Week 1** | Orientation & Environment Setup | [View Folder](./week-01/) | 🔄 In Progress |
 | **Week 2** | Exploratory Data Analysis (EDA) | [View Folder](./week-02/) | ⏳ Pending |
